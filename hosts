@@ -1,2 +1,2 @@
 [tomcat-servers]
-172.42.2.114
+172.42.2.114	ansible_user=user1
